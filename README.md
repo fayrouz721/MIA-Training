@@ -21,6 +21,7 @@ Tasks Overview:
 - **Battery Session:** focused on understanding battery types, selection criteria, and power management for any system .
 
 **task 3 : Gotham’s minefield**
+
 **circuits simulation using Tinkercad**
 
 - Designing and building custom circuits for various robotic applications.
