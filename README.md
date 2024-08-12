@@ -43,6 +43,7 @@ Tasks Overview:
 - Designed the game interface and integrated game logic to handle player moves, including special moves like castling and en passant.
 
 **task 5 : Communicate**
+
 **using TinkerCad for communication protocols and jupyter notebook as a graphing tool**
 
 - Designing and implementing a system to convert analog signals into digital form for effective signal processing and analysis.
