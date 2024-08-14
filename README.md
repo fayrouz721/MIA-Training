@@ -65,9 +65,9 @@ Tasks Overview:
 - Practiced basic Linux commands including `ls`, `cd`, `pwd`, `mkdir`, `rm`, `cp`, `mv`, `cat`, `nano`, and others.
 - Performed various operations to understand the functionality and usage of each command.
 
-  **task 8 : clash of shadows**
+**task 8 : clash of shadows**
 
-  **using c++ programming language**
+ **using c++ programming language**
 
 - showcasing how OOP concepts can be applied to simulate a fight game in C++.
 - understanding basic game mechanics and OOP in C++.
