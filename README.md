@@ -64,3 +64,12 @@ Tasks Overview:
 - Creating a README file by Notion and Adding it to the main branch where I Wrote a detailed description of the repository, including an overview of each task and its purpose.
 - Practiced basic Linux commands including `ls`, `cd`, `pwd`, `mkdir`, `rm`, `cp`, `mv`, `cat`, `nano`, and others.
 - Performed various operations to understand the functionality and usage of each command.
+
+  **task 8 : clash of shadows**
+
+  **using c++ programming language**
+
+- showcasing how OOP concepts can be applied to simulate a fight game in C++.
+- understanding basic game mechanics and OOP in C++.
+- creating a state diagram for the game .
+  
